@@ -3,12 +3,14 @@
 🚀 This project applies AI-based noise reduction and speech feature extraction techniques for audio processing. It uses the `noisereduce` library to enhance audio quality and extracts **Mel-Frequency Cepstral Coefficients (MFCCs for further analysis. The processed waveforms and MFCC visualizations provide insights into the impact of noise reduction on speech signals.**  
 
 Features:  
+
 - ✅ AI-powered **Noise Reduction** using `noisereduce`  
 - ✅ **MFCC Extraction** for speech/audio analysis  
 - ✅ **Audio waveform visualization** (Before & After enhancement)  
 - ✅ **Speech enhancement techniques**  
 
 Applications: 
+
 🔹 Speech Recognition & Processing  
 🔹 Audio Classification & Enhancement  
 🔹 Machine Learning & AI-based Speech Systems  

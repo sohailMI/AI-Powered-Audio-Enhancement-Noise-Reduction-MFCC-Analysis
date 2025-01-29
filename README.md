@@ -28,3 +28,9 @@ Waveform plots: audio_waveform_before.png, audio_waveform_after.png
 2. Run
 
 python denoising.py
+
+# Output Files
+
+Enhanced Audio: enhanced_audio.wav
+MFCC Feature Plots: mfcc_features_before.png, mfcc_features_after.png
+Waveform Plots: audio_waveform_before.png, audio_waveform_after.png

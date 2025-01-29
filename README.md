@@ -1,0 +1,2 @@
+# AI-Powered-Audio-Enhancement-Noise-Reduction-MFCC-Analysis
+This project applies AI-based noise reduction and speech feature extraction techniques for audio processing. It uses the noisereduce library to enhance audio quality and extracts Mel-Frequency Cepstral Coefficients (MFCCs) for further analysis. The processed waveforms and MFCC visualizations provide insights into the impact of noise reduction.
